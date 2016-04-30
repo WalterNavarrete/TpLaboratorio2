@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1461883059 source:c:\users\walter.navarrete\desktop\tp2_programación\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1461879163 c:\users\walter.navarrete\desktop\tp2_programación\funciones.h
+
+1461879009 c:\users\walter.navarrete\desktop\tp2_programación\utn.h
+
+1461879027 source:c:\users\walter.navarrete\desktop\tp2_programación\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1461881001 source:c:\users\walter.navarrete\desktop\tp2_programación\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1461895376 source:c:\users\walter\desktop\tp2_programación\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1461894283 c:\users\walter\desktop\tp2_programación\funciones.h
+
+1461879009 c:\users\walter\desktop\tp2_programación\utn.h
+
+1461879027 source:c:\users\walter\desktop\tp2_programación\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1461894174 source:c:\users\walter\desktop\tp2_programación\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1461974682 source:c:\users\walter\desktop\versionfinal\tp2_programación\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1461974682 c:\users\walter\desktop\versionfinal\tp2_programación\funciones.h
+
+1461879009 c:\users\walter\desktop\versionfinal\tp2_programación\utn.h
+
+1461974795 source:c:\users\walter\desktop\versionfinal\tp2_programación\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1461974682 source:c:\users\walter\desktop\versionfinal\tp2_programación\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
